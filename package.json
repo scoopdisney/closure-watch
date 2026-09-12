@@ -1,0 +1,8 @@
+{
+  "name": "closure-watch",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Attraction closure and refurbishment watch for Disneyland Resort and Walt Disney World",
+  "scripts": { "scan": "node scan.mjs" }
+}
