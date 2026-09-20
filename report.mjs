@@ -8,7 +8,7 @@ const rank = k => { const i = ORDER.indexOf(k); return i < 0 ? 99 : i; };
 
 export function report(stamp, resorts, events, curWins, hz, failures) {
   const L = [];
-  L.push(`## Closure watch — ${stamp} UTC`);
+  L.push(`## Closure watch — ${new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })}`);
   L.push('');
   const counts = resorts.map(r =>
     `${r.key} ${r.entities} entities, ${r.closures} closure-days, window to ${hz[r.key] ? hz[r.key].last : 'n/a'}`);
