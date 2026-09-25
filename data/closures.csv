@@ -1,90 +1,73 @@
 resort,id,name,park,date,type
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-24,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-24,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-09-24,Refurbishment
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-24,Closed
-DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-09-24,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-24,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-09-24,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-24,Closed
-DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-09-24,Refurbishment
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-24,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-24,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-24,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-25,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-25,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-25,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-25,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-09-25,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-25,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-09-25,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-09-25,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-25,Refurbishment
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-25,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-25,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-09-25,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-25,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-25,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-09-25,Closed
+DLR,353347,Haunted Mansion,Disneyland Park,2026-09-25,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-25,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-09-25,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-09-26,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-09-26,Refurbishment
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-26,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-26,Closed
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-26,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-26,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-26,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-26,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-26,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-26,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-09-26,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-25,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-25,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-09-25,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-25,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-27,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-27,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-27,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-27,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-09-27,Closed
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-27,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-09-27,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-09-27,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-27,Refurbishment
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-27,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-27,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-09-28,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-09-28,Refurbishment
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-28,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-28,Closed
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-28,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-28,Closed
-DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-09-28,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-28,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-28,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-28,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-28,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-28,Refurbishment
+DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-09-28,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-28,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-09-28,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-09-28,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-28,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-09-28,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-09-28,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-28,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-28,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-28,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-09-28,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-29,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-29,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-09-29,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-29,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-29,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-09-29,Closed
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-29,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-29,Closed
 DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-09-29,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-29,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-09-29,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-29,Closed
-DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-09-29,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-29,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-29,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-29,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-30,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-30,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-30,Closed
-DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-09-30,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-30,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-29,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-29,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-29,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-09-29,Closed
+DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-09-29,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-09-30,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-30,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-09-30,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-09-30,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-30,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-09-30,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-09-30,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-09-30,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-09-30,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-09-30,Closed
+DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-09-30,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-09-30,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-09-30,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-09-30,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-09-30,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-09-30,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-09-30,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-01,Refurbishment
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-01,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-01,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-01,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-01,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-01,Closed
 DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-01,Closed
@@ -98,6 +81,7 @@ DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Par
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-02,Refurbishment
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-02,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-02,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-02,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-02,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-02,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-02,Closed
@@ -106,31 +90,34 @@ DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-02
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-02,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-02,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-10-02,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-03,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-03,Refurbishment
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-03,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-03,Closed
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-03,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-03,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-03,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-03,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-03,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-03,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-03,Refurbishment
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-03,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-03,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-03,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-03,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-03,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-03,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-04,Refurbishment
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-04,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-04,Closed
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-04,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-04,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-04,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-04,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-04,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-03,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-03,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-03,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-04,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-04,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-04,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-04,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-04,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-04,Closed
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-04,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-04,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-04,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-04,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-04,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-05,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-05,Refurbishment
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-05,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-05,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-05,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-05,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-05,Closed
 DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-05,Closed
@@ -140,34 +127,37 @@ DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-05
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-05,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-05,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-10-05,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-06,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-06,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-06,Closed
-DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-06,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-06,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-06,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-06,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-06,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-06,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-06,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-06,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-06,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-06,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-06,Closed
+DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-06,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-06,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-06,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-06,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-06,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-06,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-10-06,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-07,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-07,Refurbishment
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-07,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-07,Closed
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-07,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-07,Closed
-DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-07,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-07,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-07,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-07,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-07,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-07,Refurbishment
+DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-07,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-07,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-07,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-07,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-07,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-07,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-07,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-07,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-07,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-07,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-10-07,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-08,Refurbishment
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-08,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-08,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-08,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-08,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-08,Closed
 DLR,353311,Davy Crockett's Explorer Canoes,Disneyland Park,2026-10-08,Closed
@@ -177,54 +167,59 @@ DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-08
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-08,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-08,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-10-08,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-09,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-09,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-09,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-09,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-09,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-09,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-09,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-09,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-09,Refurbishment
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-09,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-09,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-09,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-09,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-09,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-09,Closed
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-09,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-09,Closed
 DLR,353425,Sailing Ship Columbia,Disneyland Park,2026-10-09,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-10,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-10,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-10,Refurbishment
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-10,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-10,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-10,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-10,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-10,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-10,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-09,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-09,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-09,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-09,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-10,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-10,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-10,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-10,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-10,Closed
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-10,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-10,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-10,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-11,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-11,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-11,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-11,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-11,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-10,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-10,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-10,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-10,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-11,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-11,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-11,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-11,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-11,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-11,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-11,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-11,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-11,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-11,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-12,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-12,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-12,Refurbishment
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-11,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-11,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-11,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-12,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-12,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-12,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-12,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-12,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-12,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-12,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-12,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-12,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-12,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-12,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-12,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-12,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-12,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-12,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-12,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-13,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-13,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-13,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-13,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-13,Closed
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-13,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-13,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-13,Closed
@@ -236,89 +231,98 @@ DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-14,Refurbishment
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-14,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-14,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-14,Closed
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-14,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-14,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-14,Closed
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-14,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-14,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-14,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-15,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-15,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-15,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-15,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-15,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-15,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-15,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-15,Refurbishment
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-15,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-15,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-15,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-15,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-15,Closed
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-15,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-15,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-15,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-16,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-16,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-16,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-16,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-15,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-15,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-16,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-16,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-16,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-16,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-16,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-16,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-16,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-16,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-16,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-16,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-16,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-16,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-17,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-17,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-17,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-17,Closed
-DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-17,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-17,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-17,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-17,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-16,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-16,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-16,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-17,Refurbishment
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-17,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-17,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-17,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-17,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-17,Closed
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-17,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-17,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-17,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-18,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-18,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-18,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-17,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-17,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-17,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-18,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-18,Closed
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-18,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-18,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-18,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-18,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-18,Closed
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-18,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-18,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-19,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-19,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-19,Refurbishment
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-19,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-19,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-19,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-19,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-19,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-19,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-18,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-18,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-18,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-18,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-18,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-19,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-19,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-19,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-19,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-19,Closed
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-19,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-19,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-19,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-20,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-20,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-20,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-20,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-20,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-20,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-20,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-19,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-19,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-19,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-19,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-20,Refurbishment
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-20,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-20,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-20,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-20,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-20,Closed
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-20,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-20,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-20,Closed
-DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-21,Closed
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-21,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-21,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-21,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-20,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-20,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-21,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-21,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-21,Refurbishment
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-21,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-21,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-21,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-21,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-21,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-21,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-21,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-21,Closed
 DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-21,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-21,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-21,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-21,Closed
 DLR,353369,Mad Tea Party,Disneyland Park,2026-10-22,Refurbishment
 DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-22,Closed
 DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-22,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-22,Closed
 DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-22,Closed
 DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-22,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-22,Closed
@@ -326,34 +330,30 @@ DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-22
 DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-22,Closed
 DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-22,Refurbishment
 DLR,353347,Haunted Mansion,Disneyland Park,2026-10-22,Closed
-DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-23,Refurbishment
-DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-23,Closed
-DLR,353369,Mad Tea Party,Disneyland Park,2026-10-23,Refurbishment
-DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-23,Closed
-DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-23,Closed
-DLR,353347,Haunted Mansion,Disneyland Park,2026-10-23,Closed
-DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-23,Closed
-DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-23,Closed
-DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-23,Closed
 DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-23,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-23,Refurbishment
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-23,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-23,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-23,Closed
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-23,Closed
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-23,Closed
 DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-23,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-24,Closed
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-24,Closed
-WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,19497952,Vacation Fun - An Original Animated Short with Mickey & Minnie,Disney's Hollywood Studios,2026-09-24,Closed
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-09-24,Closed
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-24,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-24,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-24,Closed
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-24,Refurbishment
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-23,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-23,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-23,Refurbishment
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-23,Closed
+DLR,353355,Indiana Jones™ Adventure,Disneyland Park,2026-10-24,Refurbishment
+DLR,18343088,Luigi's Rollickin' Roadsters,Disney California Adventure Park,2026-10-24,Closed
+DLR,353369,Mad Tea Party,Disneyland Park,2026-10-24,Refurbishment
+DLR,353431,Soarin' Around the World,Disney California Adventure Park,2026-10-24,Closed
+DLR,18848247,Mater's Jingle Jamboree,Disney California Adventure Park,2026-10-24,Closed
+DLR,16514431,Mater's Junkyard Jamboree,Disney California Adventure Park,2026-10-24,Closed
+DLR,353347,Haunted Mansion,Disneyland Park,2026-10-24,Closed
+DLR,18848246,Luigi's Joy to the Whirl,Disney California Adventure Park,2026-10-24,Closed
+DLR,19324604,Soarin' Over California,Disney California Adventure Park,2026-10-24,Closed
+DLR,18237232,"""it's a small world"" Holiday",Disneyland Park,2026-10-24,Closed
+DLR,19354459,Villains Grove at Oogie Boogie Bash,Disney California Adventure Park,2026-10-24,Closed
+DLR,18237368,Hyperspace Mountain,Disneyland Park,2026-10-24,Closed
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-25,Refurbishment
 WDW,20194,Soarin' Around the World,EPCOT,2026-09-25,Closed
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-25,Refurbishment
@@ -404,78 +404,78 @@ WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-27,
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-27,Refurbishment
 WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-27,Closed
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-27,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-28,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-09-28,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-28,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-28,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-09-28,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-09-28,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-28,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-28,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-28,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-09-28,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-09-28,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-28,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-28,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-29,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-09-29,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-09-29,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Closed
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-29,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-29,Closed
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-28,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-28,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-29,Closed
 WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-29,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-09-29,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
 WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
-WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-09-29,Refurbishment
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-29,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-30,Closed
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-30,Closed
+WDW,20194,Soarin' Around the World,EPCOT,2026-09-29,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-09-29,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-29,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-29,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-29,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-29,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-30,Refurbishment
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-09-30,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-09-30,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
 WDW,20194,Soarin' Around the World,EPCOT,2026-09-30,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-09-30,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-30,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-09-30,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-09-30,Closed
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-09-30,Closed
 WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-09-30,Closed
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-09-30,Refurbishment
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-01,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-01,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-09-30,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-01,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-01,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-01,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-01,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-01,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-01,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-01,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-01,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-01,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-01,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-01,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-01,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-01,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-02,Refurbishment
 WDW,20194,Soarin' Around the World,EPCOT,2026-10-02,Closed
 WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-02,Refurbishment
@@ -494,78 +494,78 @@ WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-02,Refurb
 WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-02,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-02,Refurbishment
 WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-02,Closed
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-03,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-03,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-03,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-03,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-03,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-03,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-03,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-03,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-03,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-03,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-03,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-03,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-03,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-04,Closed
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-04,Closed
-WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-04,Refurbishment
-WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-03,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-03,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-04,Refurbishment
 WDW,20194,Soarin' Around the World,EPCOT,2026-10-04,Closed
 WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-04,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-04,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-04,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
 WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
 WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-04,Closed
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-04,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-04,Closed
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-05,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-05,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-04,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-04,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-04,Closed
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-05,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-05,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-05,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-05,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-05,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-05,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-05,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-05,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-05,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-05,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-05,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-06,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-06,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-06,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Closed
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-06,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-06,Closed
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-05,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-05,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-06,Closed
 WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-06,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-06,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
 WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
-WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-06,Refurbishment
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-06,Closed
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-06,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-06,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-06,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-06,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-06,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-06,Refurbishment
 WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-07,Refurbishment
 WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-07,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-07,Refurbishment
@@ -584,78 +584,78 @@ WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-07,Refurbis
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-07,Refurbishment
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-07,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-07,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-08,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-08,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-08,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-08,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-08,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-08,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-08,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-08,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-08,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-08,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-08,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-08,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-08,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-09,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-09,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-08,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-08,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-09,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-09,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-09,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-09,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-09,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-09,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-09,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-09,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-09,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-09,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-09,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-10,Closed
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-10,Closed
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-09,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-09,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-10,Refurbishment
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-10,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-10,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
 WDW,20194,Soarin' Around the World,EPCOT,2026-10-10,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-10,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-10,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-10,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-10,Closed
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-10,Closed
 WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-10,Closed
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-10,Refurbishment
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-11,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-11,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-10,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-11,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-11,Closed
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-11,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-11,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-11,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-11,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-11,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-11,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-11,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-11,Refurbishment
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-11,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-11,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-11,Refurbishment
 WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-12,Refurbishment
 WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-12,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-12,Refurbishment
@@ -674,42 +674,42 @@ WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-12,Refurbis
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-12,Refurbishment
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-12,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-12,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-13,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-13,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-13,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Closed
 WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-13,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-13,Closed
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-13,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-13,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
-WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-13,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-13,Closed
 WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-13,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-14,Closed
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-14,Closed
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-13,Closed
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Closed
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-13,Refurbishment
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-13,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-14,Refurbishment
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-14,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-14,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
 WDW,20194,Soarin' Around the World,EPCOT,2026-10-14,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-14,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-14,Refurbishment
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-14,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-14,Closed
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-14,Closed
 WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-14,Closed
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-14,Refurbishment
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-14,Refurbishment
 WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-15,Refurbishment
 WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-15,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-15,Refurbishment
@@ -746,24 +746,24 @@ WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-16,Refurb
 WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-16,Refurbishment
 WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-16,Refurbishment
 WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-16,Closed
-WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-17,Refurbishment
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-17,Refurbishment
-WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-17,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-17,Closed
-WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-17,Closed
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-17,Closed
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Closed
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-17,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-17,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-17,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Closed
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-17,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-17,Closed
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-17,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-17,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-17,Closed
 WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-18,Closed
 WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-18,Refurbishment
 WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-18,Closed
@@ -782,24 +782,24 @@ WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-18,
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-18,Refurbishment
 WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-18,Closed
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-18,Refurbishment
-WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-19,Refurbishment
-WDW,20194,Soarin' Around the World,EPCOT,2026-10-19,Closed
-WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-19,Refurbishment
-WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
-WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
-WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Closed
 WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-19,Refurbishment
-WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-19,Closed
-WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
-WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
-WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-19,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
 WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-19,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
 WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
 WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
-WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
-WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-19,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-19,Closed
 WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-19,Closed
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-19,Closed
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Closed
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-19,Refurbishment
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-19,Refurbishment
 WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-20,Refurbishment
 WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-20,Refurbishment
 WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-20,Refurbishment
@@ -872,3 +872,21 @@ WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-23,Refurbis
 WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-23,Refurbishment
 WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-23,Refurbishment
 WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-23,Refurbishment
+WDW,412010036,Living with the Land – Glimmering Greenhouses,EPCOT,2026-10-24,Closed
+WDW,80010194,Storm Slides,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,412010035,Jingle Cruise,Magic Kingdom Park,2026-10-24,Closed
+WDW,14200,Crush 'n' Gusher,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,80010138,Gangplank Falls,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,16491299,Walt Disney World Railroad - Fantasyland,Magic Kingdom Park,2026-10-24,Refurbishment
+WDW,13602,Typhoon Lagoon Surf Pool,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,80010115,Castaway Creek,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,80010143,Humunga Kowabunga,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,80010156,Ketchakiddee Creek,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,20194,Soarin' Around the World,EPCOT,2026-10-24,Closed
+WDW,80010230,"Walt Disney World Railroad - Main Street, U.S.A.",Magic Kingdom Park,2026-10-24,Refurbishment
+WDW,80010232,Walt Disney's Carousel of Progress,Magic Kingdom Park,2026-10-24,Refurbishment
+WDW,80010186,Slush Gusher,Disney's Blizzard Beach Water Park,2026-10-24,Refurbishment
+WDW,18628633,Miss Adventure Falls,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,80010155,Keelhaul Falls,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
+WDW,80010167,Mayday Falls,Disney's Typhoon Lagoon Water Park,2026-10-24,Closed
+WDW,20534,Bay Slides,Disney's Typhoon Lagoon Water Park,2026-10-24,Refurbishment
