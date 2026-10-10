@@ -1,13 +1,18 @@
 import { fmt, nameKey } from './windows.mjs';
 import { EVENT_ONLY } from './resorts.mjs';
-import { line } from './diff.mjs';
+import { line, reopens } from './diff.mjs';
 
-const ORDER = ['NEW CLOSURE', 'EXTENDED', 'STARTS EARLIER', 'SHORTENED',
+const ORDER = ['REOPENING DATE SET', 'NEW CLOSURE', 'EXTENDED', 'STARTS EARLIER', 'SHORTENED',
                'REOPENED', 'ENTERED THE WINDOW'];
 const rank = k => { const i = ORDER.indexOf(k); return i < 0 ? 99 : i; };
 
 export function report(stamp, resorts, events, curWins, hz, failures) {
   const L = [];
+  const heads = events.filter(e => !e.note && (e.kind === 'REOPENING DATE SET' || e.kind === 'NEW CLOSURE'))
+    .map(e => e.kind === 'REOPENING DATE SET'
+      ? `REOPENING DATE: ${e.window.name} (${e.window.resort}) reopens ${reopens(e)}`
+      : `NEW CLOSURE: ${e.window.name} (${e.window.resort}) ${fmt(e.window)}`);
+  if (heads.length) { L.push(`**HEADLINE — ${heads.join(' · ')}**`); L.push(''); }
   L.push(`## Closure watch — ${new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })}`);
   L.push('');
   const counts = resorts.map(r =>

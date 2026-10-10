@@ -22,7 +22,9 @@ export function diffWindows(prevWins, curWins, prevHz, curHz) {
         ev.push({ kind: 'STARTS EARLIER', window: w, prev: p });
       if (w.end > p.end && !openEnded(p, prevHz))
         ev.push({ kind: 'EXTENDED', window: w, prev: p });
-      if (w.end < p.end && !openEnded(w, curHz))
+      if (w.end < p.end && openEnded(p, prevHz) && !openEnded(w, curHz))
+        ev.push({ kind: 'REOPENING DATE SET', window: w, prev: p });
+      else if (w.end < p.end && !openEnded(w, curHz))
         ev.push({ kind: 'SHORTENED', window: w, prev: p });
       continue;
     }
@@ -55,7 +57,12 @@ function tagOverlays(ev) {
   return ev;
 }
 
+const dayAfter = d => new Date(new Date(d + 'T12:00:00Z').getTime() + 86400000)
+  .toISOString().slice(0, 10);
+export const reopens = e => dayAfter(e.window.end);
+
 export const line = e =>
   `${e.kind}: ${e.window.name} (${e.window.park}) — ${e.window.type} ${fmt(e.window)}` +
+  (e.kind === 'REOPENING DATE SET' ? ` — reopens ${reopens(e)}` : '') +
   (e.prev && e.kind !== 'REOPENED' ? ` [was ${fmt(e.prev)}]` : '') +
   (e.note ? ` — ${e.note}` : '');
